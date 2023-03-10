@@ -1,0 +1,30 @@
+span {
+    background-color: yellow;
+}
+
+strong, em {
+    color: rebeccapurple;
+}
+h1, h2{
+    color: brown;
+    color: blue;
+    color: #eb1b14f1;
+}
+/* h2{
+    color: brown;
+} */
+a:hover  {
+    background-color: rgb(50, 9, 161);
+    color: azure;
+}
+a{
+    background-color: rgb(204, 240, 240);
+    transition: background-color 0.5s ;
+}
+li[class]{
+    font-size: 100px;
+}
+li[class="a"]{
+    background-color: aquamarine;
+}
+
